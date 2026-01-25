@@ -1,3 +1,5 @@
+
+
 # Data Structures and Algorithms (DSA)
 
 This repository contains my **Data Structures and Algorithms practice** using **C++**.  
@@ -30,3 +32,6 @@ The goal of this repository is to build **strong problem-solving skills** and pr
 ### 🔹 Arrays
 - Prefix Sum
 - Largest Element, Second Largest Element
+
+
+Added a program to count the elemnt which is greater than a given number
